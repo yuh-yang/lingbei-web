@@ -1,0 +1,12 @@
+#LOGO {
+	font-size: 3rem;
+}
+
+#log-button {
+	display: inline;	
+	font-size: 1.5rem;
+}
+
+#header {
+	background-color: gray;
+}
